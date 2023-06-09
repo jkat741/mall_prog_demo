@@ -1,0 +1,24 @@
+{
+  "name": "mall_prog_demo",
+  "version": "1.0.0",
+  "description": "test mall för testa  github classroom uppgifter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkat741/mall_prog_demo.git"
+  },
+  "keywords": [
+    "test",
+    "mall",
+    "demo"
+  ],
+  "author": "j k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkat741/mall_prog_demo/issues"
+  },
+  "homepage": "https://github.com/jkat741/mall_prog_demo#readme"
+}
